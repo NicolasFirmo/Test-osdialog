@@ -1,0 +1,2 @@
+/usr/bin/ar qc libosdialog.a  CMakeFiles/osdialog.dir/osdialog/osdialog.c.o CMakeFiles/osdialog.dir/osdialog/osdialog_gtk2.c.o CMakeFiles/osdialog.dir/osdialog/osdialog_gtk3.c.o
+/usr/bin/ranlib libosdialog.a

@@ -1,0 +1,4 @@
+/home/nicolas/dev/OS Dialog Test/build/CMakeFiles/edit_cache.dir
+/home/nicolas/dev/OS Dialog Test/build/CMakeFiles/rebuild_cache.dir
+/home/nicolas/dev/OS Dialog Test/build/CMakeFiles/osdialog.dir
+/home/nicolas/dev/OS Dialog Test/build/CMakeFiles/Test.dir
