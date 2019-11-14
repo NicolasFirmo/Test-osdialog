@@ -1,22 +1,19 @@
 [
 {
-  "directory": "/home/nicolas/dev/OS Dialog Test/build",
-  "command": "/usr/bin/gcc-7  -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I\"/home/nicolas/dev/OS Dialog Test/osdialog\"  -g   -pthread -o CMakeFiles/osdialog.dir/osdialog/osdialog.c.o   -c \"/home/nicolas/dev/OS Dialog Test/osdialog/osdialog.c\"",
-  "file": "/home/nicolas/dev/OS Dialog Test/osdialog/osdialog.c"
+  "directory": "C:/dev/Test-osdialog/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx86\\x86\\cl.exe  /nologo  -I..\\osdialog  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\osdialog.dir\\osdialog\\osdialog.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\dev\\Test-osdialog\\osdialog\\osdialog.c",
+  "file": "C:/dev/Test-osdialog/osdialog/osdialog.c"
 },
+
 {
-  "directory": "/home/nicolas/dev/OS Dialog Test/build",
-  "command": "/usr/bin/gcc-7  -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I\"/home/nicolas/dev/OS Dialog Test/osdialog\"  -g   -pthread -o CMakeFiles/osdialog.dir/osdialog/osdialog_gtk2.c.o   -c \"/home/nicolas/dev/OS Dialog Test/osdialog/osdialog_gtk2.c\"",
-  "file": "/home/nicolas/dev/OS Dialog Test/osdialog/osdialog_gtk2.c"
+  "directory": "C:/dev/Test-osdialog/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx86\\x86\\cl.exe  /nologo  -I..\\osdialog  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\osdialog.dir\\osdialog\\osdialog_win.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\dev\\Test-osdialog\\osdialog\\osdialog_win.c",
+  "file": "C:/dev/Test-osdialog/osdialog/osdialog_win.c"
 },
+
 {
-  "directory": "/home/nicolas/dev/OS Dialog Test/build",
-  "command": "/usr/bin/gcc-7  -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I\"/home/nicolas/dev/OS Dialog Test/osdialog\"  -g   -pthread -o CMakeFiles/osdialog.dir/osdialog/osdialog_gtk3.c.o   -c \"/home/nicolas/dev/OS Dialog Test/osdialog/osdialog_gtk3.c\"",
-  "file": "/home/nicolas/dev/OS Dialog Test/osdialog/osdialog_gtk3.c"
-},
-{
-  "directory": "/home/nicolas/dev/OS Dialog Test/build",
-  "command": "/usr/bin/g++-7   -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I\"/home/nicolas/dev/OS Dialog Test/osdialog\"  -g   -pthread -o CMakeFiles/Test.dir/main.cpp.o -c \"/home/nicolas/dev/OS Dialog Test/main.cpp\"",
-  "file": "/home/nicolas/dev/OS Dialog Test/main.cpp"
+  "directory": "C:/dev/Test-osdialog/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -I..\\osdialog  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\Test.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\dev\\Test-osdialog\\main.cpp",
+  "file": "C:/dev/Test-osdialog/main.cpp"
 }
 ]

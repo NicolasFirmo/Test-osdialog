@@ -1,0 +1,16 @@
+# ninja log v5
+0	1029	595474831	CMakeFiles/Test.dir/main.cpp.obj	a8cfca7adfe29e44
+1030	1824	595474831	Test.exe	7ae46ed2348fce39
+0	1154	595474871	CMakeFiles/Test.dir/main.cpp.obj	a8cfca7adfe29e44
+1155	1425	595474871	Test.exe	7ae46ed2348fce39
+4	629	595475368	CMakeFiles/osdialog.dir/osdialog/osdialog.c.obj	684c25c8bc0c7487
+0	3353	595475370	CMakeFiles/osdialog.dir/osdialog/osdialog_win.c.obj	73051509c286fa30
+3	58	595475381	osdialog.lib	1396079b2cbc5299
+0	810	595475382	CMakeFiles/Test.dir/main.cpp.obj	8cf13fffb3cf01cb
+1	1427	595475650	CMakeFiles/osdialog.dir/osdialog/osdialog_win.c.obj	73051509c286fa30
+1427	1480	595475650	osdialog.lib	1396079b2cbc5299
+1	1501	595475991	CMakeFiles/osdialog.dir/osdialog/osdialog_win.c.obj	73051509c286fa30
+1501	1557	595475991	osdialog.lib	1396079b2cbc5299
+1557	1932	595475991	Test.exe	ca81d4a4f4b7152
+0	1205	595476142	CMakeFiles/Test.dir/main.cpp.obj	8cf13fffb3cf01cb
+1206	1473	595476142	Test.exe	ca81d4a4f4b7152
