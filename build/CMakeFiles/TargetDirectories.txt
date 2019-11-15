@@ -1,4 +1,0 @@
-C:/dev/Test-osdialog/build/CMakeFiles/osdialog.dir
-C:/dev/Test-osdialog/build/CMakeFiles/rebuild_cache.dir
-C:/dev/Test-osdialog/build/CMakeFiles/Test.dir
-C:/dev/Test-osdialog/build/CMakeFiles/edit_cache.dir
