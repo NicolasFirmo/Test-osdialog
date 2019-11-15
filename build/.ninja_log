@@ -14,3 +14,8 @@
 1557	1932	595475991	Test.exe	ca81d4a4f4b7152
 0	1205	595476142	CMakeFiles/Test.dir/main.cpp.obj	8cf13fffb3cf01cb
 1206	1473	595476142	Test.exe	ca81d4a4f4b7152
+25	2633	595484453	CMakeFiles/osdialog.dir/osdialog/osdialog.c.obj	e1eca714efe43186
+111	11529	595484462	CMakeFiles/Test.dir/main.cpp.obj	d64e1124f889b51c
+1	13245	595484464	CMakeFiles/osdialog.dir/osdialog/osdialog_win.c.obj	bf983875042e9834
+13245	13574	595484464	osdialog.lib	a6162d0c99cd3843
+13574	18709	595484469	Test.exe	ed702b6762d2d89f
